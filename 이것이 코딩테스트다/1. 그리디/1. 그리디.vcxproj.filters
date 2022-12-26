@@ -15,13 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="연습문제\큰수의법칙.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="연습문제\숫자카드게임.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="연습문제\1이될때까지.cpp">
+    <ClCompile Include="기출문제\문자열뒤집기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
