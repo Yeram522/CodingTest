@@ -19,7 +19,7 @@ int main()
 			break;
 		}
 
-		if (num == 0 || nums[nxtIdx] == 0)
+		if (num == 0 || nums[nxtIdx] == 0 || num ==1)
 			nums[nxtIdx] += num; //µÑÁß ÇÏ³ª°¡ 0ÀÌ¸é µ¡¼À
 		else
 			nums[nxtIdx] *= num;
