@@ -15,13 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="상하좌우.cpp">
+    <ClCompile Include="연습문제\시각.cpp">
       <Filter>연습문제</Filter>
     </ClCompile>
-    <ClCompile Include="시각.cpp">
+    <ClCompile Include="연습문제\왕실의나이트.cpp">
       <Filter>연습문제</Filter>
     </ClCompile>
-    <ClCompile Include="왕실의나이트.cpp">
+    <ClCompile Include="연습문제\상하좌우.cpp">
+      <Filter>연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="연습문제\게임개발.cpp">
+      <Filter>연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="기출문제\럭키스트레이트.cpp">
+      <Filter>연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="기출문제\문자열재정렬.cpp">
       <Filter>연습문제</Filter>
     </ClCompile>
   </ItemGroup>
